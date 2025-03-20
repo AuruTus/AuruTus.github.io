@@ -1,5 +1,5 @@
 # AuruTus's Forget Not
 
-It records some inspiration writtings. Just for intrests 🤗
+It records some inspirational writtings. Just for interests 🤗
 
 web at https://aurutus.github.io/
