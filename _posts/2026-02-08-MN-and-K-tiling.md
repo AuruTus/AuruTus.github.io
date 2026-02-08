@@ -46,7 +46,7 @@ $$
 
 But it could also be used to fit some __reduction-heavy__ matrices $A$ and $B$ (e.g. small $M$, $N$ and very large $K$) by launching CTAs with tilings along the $K$ dimension. And of course, it needs an intermediate storage and final reduce kernel to sum all the $[M, N]$ shape sub-matrices.
 
-And it's easy to see that when $T_N = 1$ and $T_M = 1$, __equation__ $(1)$ reduces to __equation__ $(2)$. That's just the ideal Arithmetic Intensity for a GEMM. In fact, equation $(1)$ simplifies to $B_M B_N / (B_M + B_N)$ — the arithmetic intensity depends only on tile shape, making tile size the key tuning knob for the compute-vs-memory tradeoff.
+And it's easy to see that when $T_N = 1$ and $T_M = 1$, __eq.__ $(1)$ reduces to __eq.__ $(2)$. That's just the ideal Arithmetic Intensity for a GEMM. In fact, __eq.__ $(1)$ simplifies to $B_M B_N / (B_M + B_N)$ - the arithmetic intensity depends only on tile shape, making tile size the key tuning knob for the compute-vs-memory tradeoff.
 
 
 ## Final
