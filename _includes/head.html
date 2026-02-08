@@ -20,6 +20,18 @@
   <!-- End Google Analytics -->
   {%- endif %}
 
+  <!-- Begin MathJax support -->
+  <script>
+    MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      }
+    };
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
+  <!-- End MathJax support -->
+
   <!-- Begin highlight.js support -->
   <link rel="stylesheet" href="/js/highlightjs/styles/github.css">
   <link rel="stylesheet" href="/js/highlightjs/styles/ssms.css" />
