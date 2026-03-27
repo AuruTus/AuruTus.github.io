@@ -20,6 +20,10 @@ __Table of Contents__
 
 ## BEFORE YOU START
 
+This guide assumes you are using `clash` as the proxy application. The example
+commands below use its default local port `7890`; if your proxy listens on a
+different port, replace `7890` accordingly.
+
 Turn on the `Allow LAN` of `clash`, the proxy will go through our WSL LAN.
 
 ## WSL SHELL ENV SETTINGS
