@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-A Jekyll-based technical blog ("AuruTus's Forget Not") hosted on GitHub Pages at https://aurutus.github.io/. Content focuses on systems programming topics: concurrency, optimization, compiler semantics.
+A Jekyll-based technical blog ("Modern Alchemy") hosted on GitHub Pages at https://aurutus.github.io/. Content focuses on systems programming topics: concurrency, optimization, compiler semantics.
 
 ## Development Commands
 

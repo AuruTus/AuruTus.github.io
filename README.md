@@ -1,4 +1,4 @@
-# AuruTus's Forget Not
+# Modern Alchemy
 
 It records some inspirational writtings. Just for interests 🤗
 
