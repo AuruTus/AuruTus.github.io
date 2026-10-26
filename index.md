@@ -1,1 +1,1 @@
-It records some inspirational writtings. Just for interests 🤗
+It records some inspirational writings. Just for fun 🤗
